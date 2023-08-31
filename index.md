@@ -1,3 +1,7 @@
+### Maria's First CS193 Homework
+- I love how y'all are so chill, it takes away my fear of asking for help in class.
+- I don't have much computer science knowledge so my classes can be intimidating. So I am happy for the existence of this class!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
